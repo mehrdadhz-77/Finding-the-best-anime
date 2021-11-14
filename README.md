@@ -6,7 +6,7 @@ https://drive.google.com/drive/folders/1ZHwSkseden4Yr5C0stCw5YiFvjIXdEk0?usp=sha
 
 The file 'main.ipynb' is containing the solution to the questions assigned in this homework https://github.com/lucamaiano/ADM/tree/master/2021/Homework_3.
 
-Group Members: 
+Group Members:<br/>
 Mehrdad Hassanzadeh, hassanzadeh.1961575@studenti.uniroma1.it<br/>
 Vahid Ghanbarizadeh, ghanbarizdehv@gmail.com<br/>
 Andrea Giordano, giordano.1871786@studenti.uniroma1.it<br/>
